@@ -1,0 +1,12 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<sample>
+    サンプルテキスト１
+    <data id="001" val="データ001">サンプルテキスト２</data>
+    <data id="002" val="データ002"></data>
+    サンプルテキスト３
+    <data id="003" val="八百屋">
+        <subdata id="00001" val="りんご"></subdata>
+        <subdata id="00002" val="みかん"></subdata>
+        <subdata id="00003" val="すいか" comment="夏限定"></subdata>
+    </data>
+</sample>
